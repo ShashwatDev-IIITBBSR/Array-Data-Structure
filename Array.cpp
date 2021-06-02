@@ -154,8 +154,3 @@ int main()
     reverse(&Q);
     display(Q);
 }
-
-
-
-
-
