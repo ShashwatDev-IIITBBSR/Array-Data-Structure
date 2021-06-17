@@ -1,1 +1,0 @@
-/*This program contains various functions related to array data structure  */
